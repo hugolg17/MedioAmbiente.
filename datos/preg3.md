@@ -1,2 +1,1 @@
-¿Cuáles son los objetivos de la protección del medio ambiente?
-- En primer lugar nuestro primer objetivo es proteger, debemos restaurar y promover la sostenibilidad de los ecosistemas, detener y revertir la degradación de nuestro planeta y detener la pérdida de biodiversidad. Contra la contaminación respecto a los equipos debemos siempre desecharla en un punto limpio o reutilizarla por ejemplo desmontandolo y extrayendo los componentes que podamos reutilizar en otros dispositivos.
+
