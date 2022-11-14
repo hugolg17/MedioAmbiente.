@@ -1,6 +1,6 @@
 # MedioAmbiente
 ## (Descripcion)
-¿Qué es la protección en el medio ambiente?
+- ¿Qué es la protección en el medio ambiente?
 
 - ¿Cuáles son los riesgos ambientales?
 
