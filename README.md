@@ -8,6 +8,8 @@
 
 - [¿Cómo podemos garantizar la protección del medio ambiente?](datos/preg4.md)
 
+- [Referencias](datos/referencias.md)
+
 
 ## Licencia
-![image](datos/Licencia.png)
+![image](datos/Licencia.PNG)
