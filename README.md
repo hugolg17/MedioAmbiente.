@@ -8,7 +8,10 @@
 
 - [¿Cómo podemos garantizar la protección del medio ambiente?](datos/preg4.md)
 
-- [Referencias](datos/referencias.md)
+## Referencias
+
+- [Instituto Nacional de estadistica](https://www.ine.es/)
+- [El pais](https://elpais.com/)
 
 
 ## Licencia
